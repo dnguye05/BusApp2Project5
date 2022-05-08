@@ -1,0 +1,7 @@
+10000Test-Rec-1          0000000
+10001Anna Arcello        0042516
+10002Barbara Boyd        0008145
+10003Charmaine Cruz      0021023
+10004Diane Decora        0000000
+10005Eve Eden            0100410
+10006Test-Rec-2          1000000
